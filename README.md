@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome VALTECH
+## Valtech logo
+## UI exercise
 
-You can use the [editor on GitHub](https://github.com/githubjack/valtech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Exercise #1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Create a full width page with a header, a footer and a main section in index.html. The main section should contain a content section and a sidebar. Set the width of the content section to 70% and the sidebar section to 30%. The sidebar should appear on the right hand side of the content section.
 
-### Markdown
+index.html should include these assets:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js
+test.js
+test.css
+The header section should contain a navigation bar with three links:
 
-```markdown
-Syntax highlighted code block
+Exercise #2
 
-# Header 1
-## Header 2
-### Header 3
+Style the header in whatever way you think suits.
 
-- Bulleted
-- List
+In the content section of index.html build the following design.
+HTML Layout
 
-1. Numbered
-2. List
+Exercise #3
 
-**Bold** and _Italic_ and `Code` text
+Add a new link to the header called "sidebar", when clicked on will show/hide the sidebar with a transition effect.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/githubjack/valtech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
